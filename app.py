@@ -55,4 +55,3 @@ if st.button("🔍 Predict Transaction"):
 # Footer
 st.markdown("---")
 st.markdown("Developed for Credit Card Fraud Detection using Machine Learning")
-        st.warning("Invalid input")
