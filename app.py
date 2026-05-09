@@ -77,4 +77,4 @@ if st.button("🔍 Predict Transaction"):
 
 # Footer
 st.write("---")
-st.write("Developed using CTGAN and XGBoost")        )
+st.write("Developed using CTGAN and XGBoost")        
